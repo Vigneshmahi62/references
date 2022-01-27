@@ -1,0 +1,1388 @@
+[
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "IMS Id",
+		"fieldId": 1,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "IMS ID"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "AMA Id",
+		"fieldId": 2,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "AMA ID"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "ISN Id",
+		"fieldId": 3,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "ISN Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Created By",
+		"fieldId": 4,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Created By"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Modified By",
+		"fieldId": 5,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Modified By"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Pending Changes",
+		"fieldId": 6,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Pending Changes"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "AMA PDRP Indicator",
+		"fieldId": 7,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "AMA PDRP Indicator"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Has Federal Sanction",
+		"fieldId": 8,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Has Federal Sanction"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Sanction Source",
+		"fieldId": 9,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Sanction Source"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "AMA No Contact Indicator",
+		"fieldId": 10,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "AMA No Contact Indicator"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Is Eligible",
+		"fieldId": 11,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Is Eligible"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Avanir Do Not Call",
+		"fieldId": 12,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Avanir Do Not Call"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Graduation Year",
+		"fieldId": 13,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Graduation Year"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Med School Cd",
+		"fieldId": 14,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Code of Medical School Code"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Med School Desc",
+		"fieldId": 15,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Description of Medical School"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Legal Do Not Call",
+		"fieldId": 16,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Legal Do Not Call"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Marketing Do Not Call",
+		"fieldId": 17,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Marketing Do Not Call"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Pmc Cust Id",
+		"fieldId": 18,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Pmc Customer Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "HCP Hce Id",
+		"fieldId": 19,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "HCP Hce Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "First Name",
+		"fieldId": 20,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "First Name"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Middle Name",
+		"fieldId": 21,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Middle Name"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Last Name",
+		"fieldId": 22,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Last Name"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Gender",
+		"fieldId": 23,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Gender"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Birth Date",
+		"fieldId": 24,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Date of Birth"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Birth Year",
+		"fieldId": 25,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Year of Birth"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Death Date",
+		"fieldId": 26,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Date of Death"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Primary Speciality",
+		"fieldId": 27,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Primary Speciality"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Primary Profession",
+		"fieldId": 28,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Primary Profession"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Profession Id",
+		"fieldId": 29,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Id of Profession"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Status",
+		"fieldId": 30,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Status"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Veeva Id",
+		"fieldId": 31,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Id of Veeva"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Overridden",
+		"fieldId": 32,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Overridden"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Degree",
+		"fieldId": 33,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Degree"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Subscription Status",
+		"fieldId": 34,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Status of Subscription"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Speciality Description",
+		"fieldId": 35,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Description of Speciality"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Profession Code",
+		"fieldId": 36,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Profession Code"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Profession Description",
+		"fieldId": 37,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Profession Description"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Speciality Code",
+		"fieldId": 38,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Speciality Code"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Client Speciality Group",
+		"fieldId": 39,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Client Speciality Group"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Overridden",
+		"fieldId": 40,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Overridden"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Str Front Id",
+		"fieldId": 41,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Street Front Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Addr Ln 1",
+		"fieldId": 42,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Address Line 1"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Addr Ln 2",
+		"fieldId": 43,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Address Line 2"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "City Nm",
+		"fieldId": 44,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "City Name"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "St Cd",
+		"fieldId": 45,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Street Code"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Source",
+		"fieldId": 46,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Source"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Rank",
+		"fieldId": 47,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Rank"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Setting",
+		"fieldId": 48,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Setting"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Category",
+		"fieldId": 49,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Category"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Country",
+		"fieldId": 50,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Country"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Latitude",
+		"fieldId": 51,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Latitude"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Longitude",
+		"fieldId": 52,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Longitude"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Affltn Type",
+		"fieldId": 53,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Affiliation Type"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Overridden",
+		"fieldId": 54,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Overridden"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Ok Best Address",
+		"fieldId": 55,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "OneKey Best Address"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Status Label",
+		"fieldId": 56,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Status Label"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Old Icadm Addr Id",
+		"fieldId": 57,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Old Icadm Address Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Rep Managed",
+		"fieldId": 58,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Rep Managed"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Cell Phone",
+		"fieldId": 59,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Cell Phone"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Telephone",
+		"fieldId": 60,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Tele Phone"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Fax",
+		"fieldId": 61,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Fax"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Veeva Address Id",
+		"fieldId": 62,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Veeva Address Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Onekey Address Id",
+		"fieldId": 63,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "OneKey Address Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "External Id",
+		"fieldId": 64,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "External Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Workplace Id",
+		"fieldId": 65,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Workplace Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "First Name",
+		"fieldId": 66,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "First Name"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Middle Name",
+		"fieldId": 67,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Middle Name"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Last Name",
+		"fieldId": 68,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Last Name"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Degree",
+		"fieldId": 69,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Degree"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Speciality",
+		"fieldId": 70,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Speciality"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Primary Address 1",
+		"fieldId": 71,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Primary Address 1"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Primary Address 2",
+		"fieldId": 72,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Primary Address 2"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "City",
+		"fieldId": 73,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "City"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "State",
+		"fieldId": 74,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "State"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Zip 5",
+		"fieldId": 75,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Zip 5"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Phone",
+		"fieldId": 76,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Phone"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Gender",
+		"fieldId": 77,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Gender"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Birth Date",
+		"fieldId": 78,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Birth Date"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Graduation Year",
+		"fieldId": 79,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Graduation Year"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Update Date",
+		"fieldId": 80,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Update Date"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Med School",
+		"fieldId": 81,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Medical School"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Merge Status",
+		"fieldId": 82,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Merge Status"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "CMS Npi",
+		"fieldId": 83,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "CMS NPI"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "CMS Primary Txnmy Provider Type",
+		"fieldId": 84,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "CMS Primary Txn My Provider Type"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "CMS State 1",
+		"fieldId": 85,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "CMS State 1"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "CMS State 2",
+		"fieldId": 86,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "CMS State 2"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "CMS State 3",
+		"fieldId": 87,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "CMS State 3"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "CMS Lcns 1",
+		"fieldId": 88,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "CMS Lcns 1"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "CMS Lcns 2",
+		"fieldId": 89,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "CMS Lcns 2"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "CMS Lcns 3",
+		"fieldId": 90,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "CMS Lcns 3"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "SFX Cd",
+		"fieldId": 91,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "SFX Cd"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "NPI Id",
+		"fieldId": 92,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "NPI Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Created Date",
+		"fieldId": 93,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Created Date"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Src Id",
+		"fieldId": 94,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Src Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "External Id",
+		"fieldId": 95,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "External Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Sln Id",
+		"fieldId": 96,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "Sln Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Sln Key Number",
+		"fieldId": 97,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "Sln Key Number"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "st Brd Id",
+		"fieldId": 98,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "st Brd Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "st Brd Nm",
+		"fieldId": 99,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "st Brd Nm"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "st Lic Typ Id",
+		"fieldId": 100,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "st Lic Typ Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "st Lic Typ Nm",
+		"fieldId": 101,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "st Lic Typ Nm"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "st Lic Privl Id",
+		"fieldId": 102,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "st Lic Privl Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "st Lic Privl Nm",
+		"fieldId": 103,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "st Lic Privl Nm"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "st Lic Cert Nm",
+		"fieldId": 104,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "st Lic Cert Nm"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "st Lic Typ Privl Rnk Nbr",
+		"fieldId": 105,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "st Lic Typ Privl Rnk Nbr"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Authn Stat Desc",
+		"fieldId": 106,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "Authn Stat Desc"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "St Lic Deactvtn Rsn Desc",
+		"fieldId": 107,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "St Lic Deactvtn Rsn Desc"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "St Cd",
+		"fieldId": 108,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "St Cd"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Grace Period",
+		"fieldId": 109,
+		"dataType": "text",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "Grace Period"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Sfx Code",
+		"fieldId": 110,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Sfx Code"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Primary Professional Code",
+		"fieldId": 111,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Primary Professional Code"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Primary Speciality Code",
+		"fieldId": 112,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Primary Speciality Code"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Role Code",
+		"fieldId": 113,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Role Code"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "xref Hcp Hce Id",
+		"fieldId": 114,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "xref Hcp Hce Id"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Active Status Code",
+		"fieldId": 115,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Active Status Code"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Calls in 18 Months",
+		"fieldId": 116,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Calls in 18 Months"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Samples in 18 Months",
+		"fieldId": 117,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Samples in 18 Months"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Call Date",
+		"fieldId": 118,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Call Date"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Claims in 18 Months",
+		"fieldId": 119,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Claims in 18 Months"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Claim Date Pd",
+		"fieldId": 120,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Claim Date Pd"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Transaction in 18 Months",
+		"fieldId": 121,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Transaction in 18 Months"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Transaction Date Pd",
+		"fieldId": 122,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Transaction Date Pd"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Any Date",
+		"fieldId": 123,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Any Date"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Is Golden Universe",
+		"fieldId": 124,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Is Golden Universe"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Is Golden Universe Call Plan Target",
+		"fieldId": 125,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Is Golden Universe Call Plan Target"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Is In Contract",
+		"fieldId": 126,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Is In Contract"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Source Record Type",
+		"fieldId": 127,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Source Record Type"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Eff Date",
+		"fieldId": 128,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Eff Date"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Termn Date",
+		"fieldId": 129,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Termn Date"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Status",
+		"fieldId": 130,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Status of ISN"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Deactvtn Rsn",
+		"fieldId": 131,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Deactivation reason of ISN"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "ISN Type",
+		"fieldId": 132,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Type of ISN"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "ISN Id",
+		"fieldId": 133,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Id of ISN"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Is Sampleable",
+		"fieldId": 134,
+		"dataType": "text",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Is Sampleable"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "DEA Id",
+		"fieldId": 451,
+		"dataType": "list<text>",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "DEA ID"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Overridden Fields",
+		"fieldId": 452,
+		"dataType": "list<text>",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Overridden Fields"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Zip Cd",
+		"fieldId": 453,
+		"dataType": "list<text>",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Zip Codes"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Push to Veeva",
+		"fieldId": 551,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Push to Veeva"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Primary",
+		"fieldId": 552,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Primary"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Excluded Speciality",
+		"fieldId": 553,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Excluded Specialty"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Primary",
+		"fieldId": 554,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Primary"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Appt Required",
+		"fieldId": 555,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Appt Required"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Controlled Address",
+		"fieldId": 556,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Controlled Address"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Lock",
+		"fieldId": 557,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Lock"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Has State Sanction",
+		"fieldId": 558,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Has State Sanction"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Ic Address",
+		"fieldId": 560,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Ic Address"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Client Preferred",
+		"fieldId": 561,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Client Preferred"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Master Primary",
+		"fieldId": 562,
+		"dataType": "boolean",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Master Primary"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Authn Eff Dt",
+		"fieldId": 251,
+		"dataType": "date",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "Authn Eff Dt"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Authn Trmtn Dt",
+		"fieldId": 252,
+		"dataType": "date",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "Authn Trmtn Dt"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Authn Stat Dt",
+		"fieldId": 253,
+		"dataType": "date",
+		"parentFieldName": "slnDetails",
+		"jsonField": "",
+		"description": "Authn Stat Dt"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Created Date",
+		"fieldId": 254,
+		"dataType": "date",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Created Date"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Verified Date",
+		"fieldId": 255,
+		"dataType": "date",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Verified Date"
+	},
+	{
+		"providerType": "DEFAULT",
+		"fieldName": "Deactivated Date",
+		"fieldId": 256,
+		"dataType": "date",
+		"parentFieldName": null,
+		"jsonField": "",
+		"description": "Deactivated Date"
+	}
+]
