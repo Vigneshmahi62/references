@@ -14,3 +14,13 @@ coi-notification/.bsp/sbt.json
 coi-notification/.idea/*
 coi-notification/project/project/target/*
 coi-notification/*.log
+
+policy-change-req-stream-processor/.idea/*
+policy-change-req-stream-processor/target/*
+policy-change-req-stream-processor/event-producer.iml
+policy-change-req-stream-processor/policy-change-req-stream-processor.iml
+policy-change-req-stream-processor/.classpath
+policy-change-req-stream-processor/.settings/org.eclipse.jdt.core.prefs
+policy-change-req-stream-processor/.project
+policy-change-req-stream-processor/.idea/codeStyles/codeStyleConfig.xml
+policy-change-req-stream-processor/policy-changereq--stream-processor.iml
