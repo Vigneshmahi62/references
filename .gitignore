@@ -1,2 +1,16 @@
 *.class
 *.log
+
+coi-builder/.bsp/sbt.json
+coi-builder/.idea/*
+coi-builder/project/project/target/*
+coi-builder/project/target/*
+coi-builder/target/*
+coi-builder/*.log
+
+coi-notification/target/*
+coi-notification/project/target/*
+coi-notification/.bsp/sbt.json
+coi-notification/.idea/*
+coi-notification/project/project/target/*
+coi-notification/*.log
